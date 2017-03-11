@@ -1,0 +1,6 @@
+D:\reaganwei\CS280-Homework-2\CS280-Homework-2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\reaganwei\CS280-Homework-2\CS280-Homework-2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\reaganwei\CS280-Homework-2\CS280-Homework-2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\reaganwei\CS280-Homework-2\CS280-Homework-2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\reaganwei\CS280-Homework-2\CS280-Homework-2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\reaganwei\CS280-Homework-2\CS280-Homework-2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
